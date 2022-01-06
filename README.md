@@ -9,10 +9,14 @@ I am a Fullstack Software Developer and a Computational Design specialist. I wor
   - Material-UI<img align="left" alt="React" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/material-ui.svg" />
   - C#/.NET<img align="left" alt="c" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codio.svg" />
   - Python<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning:
   - Typescript<img align="left" alt="TS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/typescript.svg" />
   - AR/VR using Unity/TensorFlow<img align="left" alt="TensorFlow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/unity.svg" />
   - Creating 3D models in web apps using Three.js<img align="left" alt="Three.js" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Three.js_Icon.svg" />
+- 🏗️ Design software:
+  - Revit API<img align="left" alt="Revit" width="22px" src="https://icon-library.com/images/revit-icon/revit-icon-28.jpg" />
+  - Grasshopper Scripting/SDK<img align="left" alt="GH" width="22px" src="https://developer.rhino3d.com/images/grasshopper-guides-col1.png" />
+  - RhinoCommon API<img align="left" alt="Rhino" width="22px" src="https://www.rhino3d.com/new-source/features/rhinocommon/thumbnail.png" />
 - 👯 I’m willing to collaborate on building communitites, and research projects.
 - 📫 How to reach me: hdoshi2@gmail.com
 - 😄 Pronouns: He/Him.
