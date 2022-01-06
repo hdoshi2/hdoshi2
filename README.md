@@ -14,7 +14,7 @@ I am a Fullstack Software Developer and a Computational Design specialist. I wor
   - AR/VR using Unity/TensorFlow<img align="left" alt="TensorFlow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/unity.svg" />
   - Creating 3D models in web apps using Three.js<img align="left" alt="Three.js" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Three.js_Icon.svg" />
 - 🏗️ Design software:
-  - Revit API<img align="left" alt="Revit" width="22px" src="https://icon-library.com/images/revit-icon/revit-icon-28.jpg" />
+  - Revit API<img align="left" alt="Revit" width="18px" src="https://icon-library.com/images/revit-icon/revit-icon-28.jpg" />
   - Grasshopper Scripting/SDK<img align="left" alt="GH" width="22px" src="https://developer.rhino3d.com/images/grasshopper-guides-col1.png" />
   - RhinoCommon API<img align="left" alt="Rhino" width="22px" src="https://www.rhino3d.com/new-source/features/rhinocommon/thumbnail.png" />
 - 👯 I’m willing to collaborate on building communitites, and research projects.
