@@ -1,6 +1,6 @@
 ### Hi, I'm Hardik Doshi 👋
 
-I am a Fullstack Software Developer and a Computational Design specialist. I work as a software developer in the Building architecture and construction technology industry somewhere between design, real estate, and engineering. Previously in Structural Engineering.
+I am a Fullstack Software Developer and a Computational Design specialist. I work as a software developer in the Building architecture and construction technology industry somewhere between design, real estate, and engineering. Interested in technology related to the built environment and changing the process of how buildings are created through the lens of software development. Previously in Structural Engineering.
 
 - 🔭 I’m currently working on Fullstack/Computational Engineering. Making building efficient with computers.
 - 💥 I'm proficient in building applications using:
