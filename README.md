@@ -29,5 +29,3 @@ I am a Fullstack Software Developer and a Computational Design specialist. I wor
   <img align="left" alt="Hardik Doshi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 </br>
-
-![signature](https://user-images.githubusercontent.com/46202854/148426563-a521e002-a69b-4736-b182-e07a14d9fb0e.gif)
