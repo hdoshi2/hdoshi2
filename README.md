@@ -11,6 +11,7 @@ I am a Fullstack Software Developer and a Computational Design specialist. I wor
   - C#/.NET<img align="left" alt="c" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codio.svg" />
   - Python<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />
 - 🌱 I’m currently learning:
+  - Go <img align="left" alt="JS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/go.svg" />
   - AR/VR using Unity/TensorFlow<img align="left" alt="TensorFlow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/unity.svg" />
   - Creating 3D models in web apps using Three.js<img align="left" alt="Three.js" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Three.js_Icon.svg" />
 - 🏗️ AEC Design software:
